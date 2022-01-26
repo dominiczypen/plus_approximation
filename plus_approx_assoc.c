@@ -1,4 +1,5 @@
 /* Author: Dominic van der Zypen
+ * Last modified: 2022-01-26
  * Goal: Check associativity for
  * the approximation a+b "=" a ^ b ^ ((a & b) << 1);
  * for a, b, c bytes = unsigned char
